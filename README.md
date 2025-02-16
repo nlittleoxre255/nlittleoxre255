@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm nlittleoxre255
 
-<!--
-**nlittleoxre255/nlittleoxre255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏒 💻 🛼 🎱 Looking to collaborate on content creation 🏒 💻 🛼 🎱
 
-Here are some ideas to get you started:
+## About Me
+🎽 🎭 A designer in devops 🎽 🎭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🌈 🎨 🏏 Always learning about design thinking 🌈 🎨 🏏
+
+### Fun Facts
+🥊 🎾 📚 🎨 Passionate about tools 🥊 🎾 📚 🎨
+
+---
+🎨 🥋 🎤 🎯 🎳 Thanks for visiting my profile! 🥊 🛹 🥁 🎮 📚
